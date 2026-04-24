@@ -5,52 +5,50 @@
 </p>
 
 ## 💫 About Me:
-Main ek Android Developer hoon jo **Custom ROMs (croms) Build/Porting** aur **System Modules** banane mein maharat rakhta hoon. 
+I am an Android Developer specializing in **Custom ROM (croms) Building/Porting** and **System Modules** development. 
 
-- 👑 **Founder of #ZenithPortz** (Lead Developer)
-- 📱 **Custom ROMs Porting & Building Expert**
+- 👑 **Founder of #ZenithPortz**
+- 📱 **Expert in Custom ROMs Porting & Building**
 - 🛠️ **Magisk & KernelSU Modules Developer**
-- 🛡️ **Member of #GrayRavens** & **#ShadowbytePrjkt**
+- 🌌 **Focused on System Performance & Stability**
 
 ---
 
-## 🛡️ Active Teams & Contributions:
-1. 🚀 **ZenithPortz** - [Lead Developer & Founder]
-2. 💻 **KanaDev_IS** - [Core Developer]
-3. 🛡️ **GrayRavens** / **ShadowbytePrjkt** - [Development Team Member]
+## 🛡️ Organizations & Teams:
+🚀 **ZenithPortz** (Lead) | 💻 **KanaDev_IS** | 🛡️ **GrayRavens** & **ShadowbytePrjkt**
 
 ---
 
 ## 🛠️ Technical Arsenal:
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHELL_SCRIPT-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID_OS-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fadiii8&show_icons=true&theme=tokyonight&count_private=true" alt="Fahad's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=fadiii8&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="Fahad's Stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadiii8&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadiii8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-[![github trophy](https://github-profile-trophy.vercel.app/?username=fadiii8&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=fadiii8&theme=tokyonight&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📬 Connect with Me:
 * 📱 **Telegram:** [(https://t.me/infinix_authority_official)
-* 🌐 **GitHub:** [fadiii8](https://github.com/fadiii8)
+* 🌐 **GitHub:** [(https://github.com/fadiii8)
 
 ---
 <p align="center">
