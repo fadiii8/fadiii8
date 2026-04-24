@@ -52,7 +52,7 @@ I am a proud member and contributor of the following development teams:
 ## 📬 Connect with Me:
 * 📱 **Telegram:** [(https://t.me/infinix_authority_official)
 * 🌐 **GitHub:** [(https://github.com/fadiii8)
-* 💻 **Persona:** [ ( tg://user?id=6905257277)
+* 💻 **Personal:** [ (https://t.me/fadiii8 )
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadiii8&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
