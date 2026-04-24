@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Fahad | Lead Dev @ZenithPortz
 
 <p align="center">
@@ -6,12 +5,12 @@
 </p>
 
 ## 💫 About Me:
-Main ek Android Developer hoon jo **Custom ROMs (croms) Build/Porting** aur **System Modules** banane mein maharat rakhta hoon. 3 mukhtalif teams mein active development kar raha hoon.
+Main ek Android Developer hoon jo **Custom ROMs (croms) Build/Porting** aur **System Modules** banane mein maharat rakhta hoon. 
 
 - 👑 **Founder of #ZenithPortz** (Lead Developer)
 - 📱 **Custom ROMs Porting & Building Expert**
 - 🛠️ **Magisk & KernelSU Modules Developer**
-- 🌌 **Focused on System Stability & Performance**
+- 🛡️ **Member of #GrayRavens** & **#ShadowbytePrjkt**
 
 ---
 
@@ -22,8 +21,16 @@ Main ek Android Developer hoon jo **Custom ROMs (croms) Build/Porting** aur **Sy
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Technical Arsenal:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
