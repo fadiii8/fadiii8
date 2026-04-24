@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Fahad | Lead Dev @ZenithPortz
 
 <p align="center">
@@ -14,8 +15,10 @@ I am an Android Developer specializing in **Custom ROM (croms) Building/Porting*
 
 ---
 
-## 🛡️ Organizations & Teams:
-🚀 **ZenithPortz** (Lead) | 💻 **KanaDev_IS** | 🛡️ **GrayRavens** & **ShadowbytePrjkt**
+## 🛡️ Development Teams:
+I am a proud member and contributor of the following development teams:
+
+🚀 **ZenithPortz** (Lead) | 💻 **KanaDev_IS** | 🛡️ **GrayRavens** | 🌌 **ShadowbytePrjkt**
 
 ---
 
