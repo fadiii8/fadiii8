@@ -50,7 +50,7 @@ I am a proud member and contributor of the following development teams:
 ---
 
 ## 📬 Connect with Me:
-* 📱 **Telegram:** [(https://t.me/infinix_authority_official)
+* 📱 **Telegram main channel:** [(https://t.me/infinix_authority_official)
 * 🌐 **GitHub:** [(https://github.com/fadiii8)
 * 💻 **Personal:** [ (https://t.me/fadiii8 )
 ---
