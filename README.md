@@ -2,7 +2,8 @@
 # Hi there! 👋 I'm Fahad | Lead Dev @ZenithPortz
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fadiii8/fadiii8/main/ZenithPortz_Banner.png" alt="ZenithPortz Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/fadiii8/fad<img width="512" height="286" alt="ZenithPortz_Banner" src="https://github.com/user-attachments/assets/eed9cb41-22ab-4a8c-b201-cff62b5b5cbb" />
+iii8/main/ZenithPortz_Banner.png" alt="ZenithPortz Banner" width="100%">
 </p>
 
 ## 💫 About Me:
