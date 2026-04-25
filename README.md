@@ -1,10 +1,7 @@
 
 # Hi there! 👋 I'm Fahad | Lead Dev @ZenithPortz
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fadiii8/fad<img width="512" height="286" alt="ZenithPortz_Banner" src="https://github.com/user-attachments/assets/eed9cb41-22ab-4a8c-b201-cff62b5b5cbb" />
-iii8/main/ZenithPortz_Banner.png" alt="ZenithPortz Banner" width="100%">
-</p>
+![image alt](https://github.com/fadiii8/fadiii8/blob/e5f20e50835234c171732060488185f07b9b31ca/ZenithPortz_Banner.png)
 
 ## 💫 About Me:
 I am an Android Developer specializing in **Custom ROM (croms) Building/Porting** and **System Modules** development. 
